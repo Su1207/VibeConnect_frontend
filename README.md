@@ -1,6 +1,7 @@
-# React + Vite
+# VibeConnect - a real time chat application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/b1a54a45-3e83-403f-ba64-0f1819c22de8)
+
 
 Currently, two official plugins are available:
 
