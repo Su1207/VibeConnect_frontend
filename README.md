@@ -29,7 +29,7 @@ VibeConnect is a cutting-edge real-time chat application designed to keep you co
 ### Frontend Repository
 1. Clone the frontend repository:
     ```bash
-    git clone https://github.com/yourusername/Vibeconnect_frontend.git
+    git clone https://github.com/Su1207/Vibeconnect_frontend.git
     cd Vibeconnect_frontend
     ```
 
@@ -41,7 +41,7 @@ VibeConnect is a cutting-edge real-time chat application designed to keep you co
 ### Backend Repository
 1. Clone the backend repository:
     ```bash
-    git clone https://github.com/yourusername/Vibeconnect_backend.git
+    git clone https://github.com/Su1207/Vibeconnect_backend.git
     cd vibeconnect_backend
     ```
 
